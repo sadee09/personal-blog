@@ -13,7 +13,7 @@ redirect_from:
 
 🧠 I'm an AI/ML Engineer from Nepal, currently working at EKbana Solutions and expanding my knowledge through research endeavors. My journey into tech began with a curiosity for how things work — and has evolved into a passion for building intelligent systems that solve real-world problems. 
 
- Back then, the idea that machines could understand and interpret human language felt like a plot twist from *The Matrix*. This spark led me deeper into the world of artificial intelligence, where I now find joy in exploring machine learning and pushing the boundaries of what technology can do through thoughtful research.
+ Back then, the idea that machines could understand and interpret human language felt like a plot twist from *The Matrix*. This idea led me deeper into the world of artificial intelligence, where I now find joy in exploring machine learning and pushing the boundaries of what technology can do through thoughtful research.
 
 I’m especially interested in:
 - Machine Learning Systems & Optimization 

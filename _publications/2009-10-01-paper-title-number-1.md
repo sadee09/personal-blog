@@ -7,7 +7,7 @@ excerpt: 'Insurance adjusters are crucial for analyzing frauds, claims, losses, 
 date: 2024-01-14
 venue: 'Proceedings of the 2024 International Conference on Data, Communication, IoT (IDCIoT). IEEE, 2024'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/Automobile_Insurance_Claims.pdf'
+paperurl: '/personal-blog/files/Automobile_Insurance_Claims.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 

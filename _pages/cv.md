@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* Feb 2024: Associate ML Engineer
+* Jan 2024: Associate ML Engineer
   * EKbana Solutions
 
   <!-- * Duties includes: Updates and improvements to template

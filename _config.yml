@@ -21,14 +21,15 @@ repository               : "sadee09/personal-blog.git"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpeg"
   name             : "Sadikshya Gyawali"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineer"
   location         : "Nepal"
-  employer         : "Ekbana Solutions"
+  employer         : "Louisiana State University"
+  employer_url     : "https://www.lsu.edu"
   uri              : # URL
-  email            : "gyawalisad@gmail.com" 
+  email            : "sgyawa5@lsu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

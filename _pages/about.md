@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+Driven and optimistic computer engineer with a passion for continuous learning and growth. Experienced in AI/ML and game development with a strong foundation in programming, problem-solving and project management. Dedicated to delivering impactful results through innovative solutions and collaborative teamwork.
 
 ### 👋 Hi, I'm Sadikshya Gyawali
 
 
-🧠 I'm an AI/ML Engineer from Nepal, currently working at EKbana Solutions and expanding my knowledge through research endeavors. My journey into tech began with a curiosity for how things work — and has evolved into a passion for building intelligent systems that solve real-world problems. 
+🧠 I'm an AI/ML Engineer from Nepal, currently pursuing a graduate degree in Computer Science at Louisiana State University and expanding my knowledge through research endeavors. My journey into tech began with a curiosity for how things work — and has evolved into a passion for building intelligent systems that solve real-world problems. 
 
  Back then, the idea that machines could understand and interpret human language felt like a plot twist from *The Matrix*. This idea led me deeper into the world of artificial intelligence, where I now find joy in exploring machine learning and pushing the boundaries of what technology can do through thoughtful research.
 

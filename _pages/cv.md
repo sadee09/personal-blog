@@ -28,7 +28,6 @@ Work experience
   * Built an AI-powered email agent that analyzes attachments and routes messages intelligently using large language models. Integrated with Zapier to automate email tracking and improve communication workflows.
   * Developed a real-time face detection and recognition system using NVIDIA DeepStream, including face swapping capabilities. Optimized the pipeline for edge devices to ensure smooth performance.
   * Co-taught an elective course on Artificial Intelligence for IOE engineering undergraduates. Designed labs and mentored students through hands-on projects to help them understand practical AI applications.
-  * Currently researching ways to improve LLM reasoning by incorporating Graph Neural Networks. Working on the ARC dataset challenge and have reached 86% accuracy with further improvements in progress.
   * Contributing to research papers and preparing submissions for AI and machine learning conferences.
 
 * **AI/ML Engineer** | Apr 2024 – Oct 2024  

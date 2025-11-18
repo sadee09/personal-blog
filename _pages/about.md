@@ -9,10 +9,11 @@ redirect_from:
 
 ### 👋 Hi, I'm Sadikshya Gyawali
 
+🧠 I’m a Computer Science grad student at LSU, driven by a mix of curiosity and creativity. I’ve always loved understanding how things work — and somewhere along the way, that curiosity turned into a passion for building systems that actually help people.
 
-🧠 I'm an AI/ML Engineer, currently pursuing a graduate degree in Computer Science at Louisiana State University and expanding my knowledge and experience through development and research. My journey into tech began with a curiosity for how things work — and has evolved into a passion for building intelligent systems that solve real-world problems. 
+What first pulled me into AI was the idea that machines could understand us — our language, our intent, even our emotions. It felt almost sci-fi back then, like something out of *The Matrix*. But the more I learned, the more real it became. Now, I get to explore that space every day: blending research, development, and a little bit of wonder.
 
- Back then, the idea that machines could understand and interpret human language felt like a plot twist from *The Matrix*. This idea led me deeper into the world of artificial intelligence, where I now find joy in exploring machine learning and pushing the boundaries of what technology can do through thoughtful research.
+Working with diverse teams has taught me that good coordination isn’t just about tasks — it’s about people. I’ve learned to listen, understand different perspectives, and create space where everyone feels heard. I enjoy figuring out what makes each person shine and helping the team use that to move forward. That’s what makes me a natural team coordinator, and someone who can lead without forcing it.
 
 I’m especially interested in:
 - Machine Learning Systems & Optimization 

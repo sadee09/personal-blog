@@ -5,7 +5,7 @@ category: conferences
 external_url: https://arxiv.org/abs/2503.21178
 excerpt: 'Chemical reaction network is an important method for modeling and exploring complex biological processes, bio-chemical interactions and the behavior of different dynamics in system biology. But, formulating such reaction kinetics takes considerable time. In this paper, we leverage the efficiency of modern large language models to automate the stochastic monte carlo simulation of chemical reaction networks in the form of natural languages.'
 date: 2025-03-27
-venue: 'MadeAI 2025'
+venue: 'Modelling, Data Analytics and AI in Engineering (MadeAI 2025)'
 paperurl: '/personal-blog/files/Monte_Carlo.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---

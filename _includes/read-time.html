@@ -1,9 +1,22 @@
-{% if post.read_time %}
+{% assign ext_url = page.external_url | default: post.external_url %}
+{% assign read_time_override = page.read_time_override | default: post.read_time_override %}
+{% assign read_time_minutes = page.read_time_minutes | default: post.read_time_minutes %}
+
+{% if ext_url %}
+  {% if read_time_override != nil and read_time_override != '' %}
+    {{ read_time_override }}
+  {% elsif read_time_minutes != nil and read_time_minutes != '' %}
+    {{ read_time_minutes }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+  {% else %}
+    {{ site.data.ui-text[site.locale].external_post_read_time | default: "Full article hosted externally" }}
+  {% endif %}
+{% elsif post.read_time %}
   {% assign words = post.content | strip_html | number_of_words %}
 {% elsif page.read_time %}
   {% assign words = page.content | strip_html | number_of_words %}
 {% endif %}
 
+{% unless ext_url %}
 {% if site.words_per_minute %}
   {% if words < 180 %}
 	  {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
@@ -15,3 +28,4 @@
 {% else %}
   {{ site.data.ui-text[site.locale].undefined_wpm | "Undefined parameter words_per_minute at _config.yml" }}
 {% endif %}
+{% endunless %}

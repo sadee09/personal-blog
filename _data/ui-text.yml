@@ -12,6 +12,7 @@ en: &DEFAULT_EN
   ext_link_label             : "Direct Link"
   less_than                  : "less than"
   minute_read                : "minute read"
+  external_post_read_time    : "Full article hosted externally"
   share_on_label             : "Share on"
   meta_label                 :
   tags_label                 : "Tags:"
